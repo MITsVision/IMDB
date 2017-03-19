@@ -16,6 +16,7 @@ Instructions
 8.	After renaming all the file one “sucess” message will popup
 9.	Now you can select another folder
 Note – Internet connection is required because it is taking live data from IMDB website (www.imdb.com)
-Remark: Please post the all type of problem faced while using it
-Demo Video: https://youtu.be/RH0mIDf4UuE
+Remark: Please post the all type of problem faced while using it                                            
+Demo Video: https://youtu.be/RH0mIDf4UuE                                      
+
 my email: "savanmorya@gmail.com"
